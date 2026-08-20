@@ -167,7 +167,7 @@ AI-Powered-Customer-Churn-Prediction-Retention-Analytics-Platform/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AI-Powered-Customer-Churn-Prediction-Retention-Analytics-Platform.git
+git clone https://github.com/kanak2004/AI-Powered-Customer-Churn-Prediction-Retention-Analytics-Platform.git
 ```
 
 ### 2. Open the Project
